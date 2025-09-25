@@ -1,0 +1,5 @@
+{
+  "name": "Celestial Insights",
+  "description": "An astrology and fortune-telling application that provides personalized readings based on your birth details. Select your preferred language (English, Sinhala, or Tamil) and uncover mystical insights into your personality, future, and lucky elements.",
+  "requestFramePermissions": []
+}
